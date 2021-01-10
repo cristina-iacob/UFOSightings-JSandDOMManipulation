@@ -1,2 +1,2 @@
 ### JS challenge - 
-JavaScript and DOM Manipulation
+JS and DOM Manipulation
